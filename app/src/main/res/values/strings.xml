@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">KimLeeRyu</string>
+    <string name="button1">GET CONTACTS</string>
+    <string name="take_screenshot">SAVE IMAGE</string>
+    <string name="todo">TODO</string>
+    <string name="load_image">Load Image</string>
+    <string name="toblack"> </string>
+    <string name="tored"> </string>
+    <string name="towhite"> </string>
+    <string name="toyellow"> </string>
+    <string name="togreen"> </string>
+    <string name="toblue"> </string>
+    <string name="who_is_this">Who is This?</string>
+    <string name="who_is_this2">Who is this?</string>
+    <string name="name_of_the_person">Name of the person</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+</resources>
